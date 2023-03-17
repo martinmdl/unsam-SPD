@@ -1,0 +1,5 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00B44H 00B45H SHOOT_TEXT         CODE
+_DATA : segment/group exceeds 64k

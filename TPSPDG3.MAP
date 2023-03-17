@@ -1,0 +1,10 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 016BAH 016BBH TPSPDG3_TEXT       CODE
+ 016BCH 027F2H 01137H _DATA              DATA
+ 02800H 02BFFH 00400H STACK              STACK
+
+Undefined symbol 'ESPERA' in module TPSPDG3.ASM
+Program entry point at 0000:0000
+

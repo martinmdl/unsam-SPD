@@ -1,0 +1,10 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 007E3H 007E4H MENU_TEXT          CODE
+ 007E4H 00F9EH 007BBH _DATA              DATA
+ 00FA0H 0119FH 00200H STACK              STACK
+
+Undefined symbol 'ESPERA' in module MENU.ASM
+Program entry point at 0000:0000
+
