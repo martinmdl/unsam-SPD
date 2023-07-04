@@ -1,3 +1,2 @@
-# unsam-SPD
- 
-All the practice done while taking **SISTEMAS DE PROCESAMIENTO DE DATOS** classes on UNSAM.
+# Sistema de Procesamiento de Datos
+All the practice done while taking this UNSAM assignment.
